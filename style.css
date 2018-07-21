@@ -30,23 +30,26 @@ body{
     height: 150px;
 }
 .displayInput{
-    background-color: white;
+    background-color: black;
     height: 93px;
     font-size: 40px;
     width: 100%;
     border-bottom-left-radius: 5px;
     border-bottom-right-radius: 5px;
-    border-color: white;
+    border-color: black;
     text-align: right;
+    color: lightblue;
 }
 .result{
+    border-color: black;
     height: 55px;
     width: 100%;
     font-size: 50px;
-    background-color: white;
+    background-color: black;
+    color: lightblue;
 }
 .line{
-    background-color: black;
+    background-color: red;
 }
 
 .key{
